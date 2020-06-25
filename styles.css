@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #432F75;
+}
+
+header {
+    width: 100%;
+    justify-content: center;
+    background-color: #281657;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin-top: 0;
+    color: white;
+}
+
+main {
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #15063A;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: #281657;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #635192;
+}
